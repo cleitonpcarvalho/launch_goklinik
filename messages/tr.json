@@ -1,0 +1,358 @@
+{
+  "header": {
+    "navigationLabel": "Ana navigasyon",
+    "solucao": "Çözüm",
+    "funcionalidades": "Özellikler",
+    "precos": "Fiyatlar",
+    "contato": "İletişim",
+    "cta": "Lansman görüşmesi planla",
+    "languageLabel": "Dil seçimi"
+  },
+  "hero": {
+    "badge": "Özel lansman, sınırlı kontenjan",
+    "titulo_parte1": "Kliniğinizin ameliyat sonrası sürecini",
+    "titulo_destaque": "otomatik bir kâr makinesine dönüştürün",
+    "subtitulo": "Hasta kontrolü, öngörülebilir gelir artışı ve otomatik yönlendirmeler tek bir ekosistemde.",
+    "bullet1": "Ameliyat sonrası takibi tamamen çözün",
+    "bullet2": "Geliri %32'ye kadar artırın",
+    "bullet3": "Hastaların otomatik olarak yeni hastalar önermesini sağlayın",
+    "bullet4": "Yapay zekâ ve sağlık ekibi desteğiyle akıllı iletişim",
+    "oferta_titulo": "Lansman listesine katılarak şunları güvenceye alın",
+    "oferta_item1": "Ömür boyu %45 indirim",
+    "oferta_item2": "€945 yerine €499, kalıcı olarak",
+    "oferta_item3": "Hiçbir koşulda gelecekte fiyat artışı yok",
+    "cta_principal": "Kurucu klinik olmak istiyorum",
+    "selo1": "Kredi kartı gerekmez",
+    "selo2": "Sınırlı kontenjan",
+    "selo3": "Ömür boyu indirim garantisi",
+    "alt_dashboard": "Klinikler için GoKlinik web paneli maketi",
+    "alt_mobile": "GoKlinik Patient mobil uygulama maketi"
+  },
+  "problema": {
+    "titulo": "Kliniklerin gerçek sorunu",
+    "intro": "Bir estetik cerrahi kliniğinin en büyük zorluğu hasta çekmek değildir. Asıl sorun ameliyattan sonra başlar.",
+    "item1": "Güvensiz hisseden ve yeterli takip almayan hastalar",
+    "item2": "Aşırı yük altındaki ekip ve departmanlar arasında zayıf iletişim",
+    "item3": "Kontrol randevuları üzerinde gerçek takip eksikliği",
+    "item4": "Gelecekteki gelir için sıfır öngörülebilirlik",
+    "resultado_titulo": "Sonuç",
+    "resultado_texto": "Hastalar geri dönmez, yeni hastalar önermez ve klinik her ay gelir kaybeder.",
+    "cta": "Lansmanda öncelik istiyorum",
+    "alt_clinic": "Telefon, belgeler ve idari görevlerle ilgilenen yoğun klinik resepsiyonisti"
+  },
+  "solucao": {
+    "titulo": "Şimdi bunun otomatik olarak çözüldüğünü hayal edin",
+    "subtitulo": "GoKlinik ile kliniğiniz eksiksiz bir takip ve büyüme ekosistemine sahip olur.",
+    "feature1_titulo": "Hasta üzerinde tam kontrol",
+    "feature1_texto": "İlk günden kesin taburcuya kadar ameliyat sonrası sürecin her adımını gerçek zamanlı takip edin.",
+    "feature2_titulo": "Merkezi iletişim",
+    "feature2_texto": "Sohbet, uyarılar ve bildirimler tek yerde, farklı uygulamalar arasında dağılmadan.",
+    "feature3_titulo": "Akıllı ameliyat sonrası takip",
+    "feature3_texto": "Uygulanan her işlem türüne uyarlanan otomatik protokoller.",
+    "feature4_titulo": "Otomatik etkileşim",
+    "feature4_texto": "Hasta, ekibin manuel çabası olmadan net hatırlatmalar ve yönlendirmeler alır.",
+    "feature5_titulo": "Öngörülebilir geri dönüş",
+    "feature5_texto": "Hasta tutma ve kliniğin gelecekteki geliri hakkında net veriler.",
+    "card_app_paciente": "Hasta Uygulaması",
+    "card_app_medico": "Doktor Uygulaması",
+    "card_dashboard": "Klinik Paneli",
+    "cta": "Bu çözümü kliniğimde istiyorum",
+    "alt_app_paciente": "Hasta takvimi bulunan GoKlinik Patient uygulama maketi",
+    "alt_app_medico": "Hasta mesajları bulunan GoKlinik Medic uygulama maketi",
+    "alt_dashboard": "Klinik için GoKlinik web paneli maketi",
+    "alt_patient_logo": "GoKlinik Patient logosu",
+    "alt_medic_logo": "GoKlinik Medic logosu"
+  },
+  "dashboard": {
+    "titulo": "Kliniğiniz gerçek zamanlı olarak tamamen kontrol altında",
+    "subtitulo": "Varsayımlara değil, gerçek verilere dayalı kararlar",
+    "item1_titulo": "Gerçek zamanlı gelir",
+    "item1_texto": "Kliniğinizin gelirini her an güncel olarak takip edin",
+    "item2_titulo": "Profesyonel performansı",
+    "item2_texto": "Ekibinizdeki her üyenin bireysel performansını görüntüleyin",
+    "item3_titulo": "Hasta ilerleyişi",
+    "item3_texto": "Her hastanın klinikteki yolculuğunu baştan sona takip edin",
+    "item4_titulo": "Akıllı uyarılar",
+    "item4_texto": "Dikkat gerektiren noktalar hakkında otomatik bildirimler alın",
+    "item5_titulo": "Tam geçmiş",
+    "item5_texto": "Tüm muayene ve işlem geçmişine kolayca erişin",
+    "metrica1_valor": "%32",
+    "metrica1_texto": "Gelir artışı",
+    "metrica2_valor": "%100",
+    "metrica2_texto": "Ameliyat sonrası kontrol",
+    "metrica3_valor": "3 kat",
+    "metrica3_texto": "Daha fazla hasta dönüşü",
+    "cta": "Kliniğimin gelirini artırmak istiyorum",
+    "alt_dashboard": "Klinik operasyon verileri bulunan GoKlinik web paneli"
+  },
+  "experienciaPaciente": {
+    "titulo": "Hasta, kliniği avucunun içinde taşır",
+    "subtitulo": "İlk temastan son taburcuya kadar eksiksiz bir deneyim",
+    "item1_titulo": "Tam hasta kaydına erişim",
+    "item1_texto": "Hasta, tüm klinik geçmişini uygulama üzerinden takip eder",
+    "item2_titulo": "İlaç ve geçmiş takibi",
+    "item2_texto": "İlaçlar ve ameliyat sonrası bakım için net hatırlatmalar",
+    "item3_titulo": "Takvim ve otomatik hatırlatmalar",
+    "item3_texto": "Randevular ve kontrol ziyaretleri otomatik olarak düzenlenir",
+    "item4_titulo": "Sağlık ekibiyle doğrudan sohbet",
+    "item4_texto": "Hastayla ilgilenen ekiple hızlı ve güvenli iletişim",
+    "item5_titulo": "Yapay zekâ yanıtları ve insani dokunuş",
+    "item5_texto": "Sık sorulan sorular anında çözülür, gerektiğinde insan desteği devreye girer",
+    "item6_titulo": "İyileşme sürecinin fotoğraf takibi",
+    "item6_texto": "Günlük fotoğraf ve notlarla iyileşme sürecini takip edin",
+    "frase_impacto": "Daha güvende hisseden hasta daha fazla memnuniyet demektir, daha fazla memnuniyet ise daha fazla öneri demektir",
+    "cta": "Hastalarım için bu deneyimi istiyorum",
+    "alt_app": "Hasta takvimi ve hatırlatmaları bulunan GoKlinik Patient uygulaması"
+  },
+  "paciente": {
+    "title": "TODO: paciente",
+    "body": "TODO"
+  },
+  "crescimento": {
+    "titulo": "Her hastayı kliniğinizin destekçisine dönüştürün",
+    "subtitulo": "Organik büyüme için tasarlanmış otomatik bir yönlendirme sistemi",
+    "passo1_titulo": "Hasta özel bir bağlantı alır",
+    "passo1_texto": "Her hastanın kendi kişisel yönlendirme bağlantısı olur",
+    "passo2_titulo": "Arkadaşları ve ailesiyle paylaşır",
+    "passo2_texto": "Yönlendirme, uygulamanın içinde doğal şekilde gerçekleşir",
+    "passo3_titulo": "Sistem yönlendirmeyi otomatik tanır",
+    "passo3_texto": "Manuel süreçler veya elektronik tablo takibi olmadan",
+    "passo4_titulo": "Klinik avantajları kontrol eder",
+    "passo4_texto": "Her yönlendirme için kuralları ve avantajları tam bağımsızlıkla belirleyin",
+    "passo5_titulo": "Sürekli organik büyüme",
+    "passo5_texto": "Yeni hastalar, kliniğinize zaten güvenen kişiler üzerinden gelir",
+    "destaque": "Sıfır maliyetle yeni hasta kazanımı",
+    "cta": "Ek maliyet olmadan daha fazla hasta istiyorum",
+    "alt_referrals": "Hasta yönlendirme kontrolü bulunan GoKlinik paneli"
+  },
+  "whiteLabel": {
+    "titulo": "Uygulamanız, markanız, tam kontrolünüz",
+    "subtitulo": "GoKlinik ekosistemi kliniğinizin görsel kimliğine uyum sağlar",
+    "item1_titulo": "Kişiselleştirilmiş renkler",
+    "item1_texto": "Uygulamanın görsel kimliğini kliniğinizin resmi renklerine uyarlayın",
+    "item2_titulo": "Klinik logosu uygulamada",
+    "item2_texto": "Hastalarınız kliniğinizin markasını tanır ve ona güvenir",
+    "item3_titulo": "Tamamen kişiselleştirilmiş deneyim",
+    "item3_texto": "Uygulama, yalnızca kliniğiniz için geliştirilmiş gibi görünür",
+    "cta": "Kliniğim için özel bir uygulama istiyorum",
+    "alt_patient_variant": "Mavi görsel kimliğe sahip GoKlinik Patient uygulaması",
+    "alt_medic_variant": "Yeşil görsel kimliğe sahip GoKlinik Medic uygulaması"
+  },
+  "gestaoEquipe": {
+    "titulo": "Organize ve üretken ekip",
+    "subtitulo": "Kişiler, erişimler ve iç süreçler üzerinde tam kontrol",
+    "item1_titulo": "Seviyeye göre erişim kontrolü",
+    "item1_texto": "Her ekip üyesinin tam olarak neyi görüntüleyebileceğini veya değiştirebileceğini belirleyin",
+    "item2_titulo": "Profesyonellerin eksiksiz yönetimi",
+    "item2_texto": "Tüm sağlık ve idari ekibi tek yerde organize edin",
+    "item3_titulo": "Detaylı işlem geçmişi",
+    "item3_texto": "Sistem içinde yapılan her işlemi tam izlenebilirlikle takip edin",
+    "item4_titulo": "Kaos olmadan tam organizasyon",
+    "item4_texto": "Net süreçler doğaçlamanın ve yeniden iş yapmanın yerini alır",
+    "frase_impacto": "Daha fazla verimlilik, daha az kaos",
+    "cta": "Ekibimi GoKlinik ile organize etmek istiyorum",
+    "alt_team_photo": "Hastane ortamında çeşitli sağlık ekibi",
+    "alt_team_dashboard": "Klinik ekibi yönetimi için GoKlinik paneli"
+  },
+  "whitelabel": {
+    "title": "TODO: whitelabel",
+    "body": "TODO"
+  },
+  "equipe": {
+    "title": "TODO: equipe",
+    "body": "TODO"
+  },
+  "resultados": {
+    "titulo": "Geliri doğrudan etkileyen sonuçlar",
+    "subtitulo": "GoKlinik kullanan klinikler istikrarlı şekilde büyür",
+    "metrica1_valor": "%32",
+    "metrica1_texto": "Gelir artışı",
+    "metrica2_valor": "3 kat",
+    "metrica2_texto": "Daha fazla hasta dönüşü",
+    "metrica3_valor": "%100",
+    "metrica3_texto": "Kontrollü ameliyat sonrası süreç",
+    "metrica4_valor": "Sonsuz",
+    "metrica4_texto": "Ek maliyetsiz yönlendirmeler",
+    "lista_item1": "Daha fazla hasta dönüşü",
+    "lista_item2": "Daha fazla organik yönlendirme",
+    "lista_item3": "Daha fazla finansal öngörülebilirlik",
+    "lista_item4": "Aydan aya istikrarlı büyüme",
+    "cta": "Bu sonuçları kliniğimde istiyorum",
+    "alt_revenue_dashboard": "Klinik gelir analizleri bulunan GoKlinik paneli",
+    "alt_patient_result": "Klinik görüşmesinde memnun hasta"
+  },
+  "precos": {
+    "badge": "Kurucu klinikler için özel teklif",
+    "aviso": "Bu koşul lansmandan sonra tekrarlanmayacak",
+    "plano_normal_nome": "Normal Plan",
+    "plano_normal_valor_eur": "Aylık €945",
+    "plano_normal_valor_try": "48500 Türk lirası",
+    "plano_normal_item1": "Tam erişim",
+    "plano_normal_item2": "Yönetim paneli",
+    "plano_normal_item3": "Hasta uygulaması",
+    "plano_normal_item4": "Doktor uygulaması",
+    "plano_normal_item5": "Yönlendirme sistemi",
+    "plano_normal_item6": "Standart destek",
+    "plano_normal_indisponivel": "Lansmandan sonra kullanılamaz",
+    "plano_fundador_badge": "En popüler, lansman teklifi",
+    "plano_fundador_nome": "Kurucu Plan",
+    "plano_fundador_valor_atual": "Aylık €499",
+    "plano_fundador_valor_original": "€945",
+    "plano_fundador_valor_try": "25600 Türk lirası",
+    "plano_fundador_economia": "Ayda €446 tasarruf edin, kalıcı olarak",
+    "plano_fundador_item1": "Tam planın içerdiği her şey",
+    "plano_fundador_item2": "Ömür boyu %45 indirim",
+    "plano_fundador_item3": "Hiçbir koşulda gelecekte fiyat artışı yok",
+    "plano_fundador_item4": "Resmi kurucu klinik statüsü",
+    "plano_fundador_item5": "Destekte en yüksek öncelik",
+    "plano_fundador_item6": "Yeni özelliklere erken erişim",
+    "plano_fundador_cta": "%45 indirimle yerimi garanti altına almak istiyorum",
+    "selo1": "Kalma taahhüdü yok",
+    "selo2": "%100 güvenli ortam",
+    "selo3": "Sınırlı kontenjan",
+    "aviso_final": "Lansman kapandıktan sonra bu koşul bir daha sunulmayacak",
+    "destaque1_titulo": "Sınırlı kontenjan",
+    "destaque1_texto": "Yalnızca seçilen klinikler için ayrılmıştır",
+    "destaque2_titulo": "Lansman süresi",
+    "destaque2_texto": "Lansmandan sonra fiyat yeniden aylık €945 olur",
+    "destaque3_titulo": "Kalıcı avantaj",
+    "destaque3_texto": "Şimdi katılanlar indirimi sonsuza kadar garanti altına alır"
+  },
+  "ctaFinal": {
+    "titulo": "Lansman yaklaşıyor, kontenjanlar tükeniyor",
+    "subtitulo": "Lansman listesine şimdi katılın ve ameliyat sonrası sürecini dönüştüren ilk kliniklerden biri olun",
+    "item1": "Ameliyat sonrası sürece tamamen hâkim olmak",
+    "item2": "Geliri öngörülebilir şekilde artırmak",
+    "item3": "Organik ve istikrarlı büyüme oluşturmak",
+    "cta": "Kurucu klinik olmak istiyorum",
+    "selo1": "Ömür boyu indirim garantisi",
+    "selo2": "Gelecekte fiyat artışı yok",
+    "selo3": "Sınırlı kontenjan",
+    "alt_istanbul": "Camiler ve Boğaz ile İstanbul manzarası"
+  },
+  "ctafinal": {
+    "title": "TODO: ctafinal",
+    "body": "TODO"
+  },
+  "formulario": {
+    "titulo": "Özel koşullarla yerinizi hemen garanti altına alın",
+    "beneficio1": "Aylık ücrette ömür boyu %45 indirim",
+    "beneficio2": "Fiyat artışı yok, kalıcı olarak",
+    "beneficio3": "Lansmanda mutlak öncelik",
+    "campo_nome_label": "Klinik adı veya yetkili kişi",
+    "campo_nome_placeholder": "Tam adınızı yazın",
+    "campo_email_label": "Profesyonel e-posta",
+    "campo_email_placeholder": "En iyi e-posta adresinizi yazın",
+    "campo_telefone_label": "Ülke kodu ile telefon",
+    "campo_telefone_placeholder": "Örnek, artı 90 500 000 0000",
+    "campo_clinica_label": "Klinik adı, isteğe bağlı",
+    "campo_clinica_placeholder": "Kliniğinizin adını yazın",
+    "botao_enviar": "%45 indirimle yerimi garanti altına al",
+    "botao_enviando": "Talebiniz gönderiliyor",
+    "mensagem_sucesso": "Talebiniz başarıyla alındı. Ekibimiz yakında sizinle iletişime geçecek.",
+    "mensagem_erro": "Talebiniz şu anda gönderilemedi. Lütfen birkaç dakika içinde tekrar deneyin.",
+    "erro_nome_obrigatorio": "Ad zorunludur",
+    "erro_email_invalido": "Geçerli bir e-posta yazın",
+    "erro_telefone_obrigatorio": "Telefon zorunludur",
+    "aviso_privacidade": "Verileriniz güvende, spam yok"
+  },
+  "contato": {
+    "title": "TODO: contato",
+    "body": "TODO"
+  },
+  "footer": {
+    "tagline": "Klinikleri dönüştüren teknoloji",
+    "navigationLabel": "Alt navigasyon",
+    "solucao": "Çözüm",
+    "funcionalidades": "Özellikler",
+    "precos": "Fiyatlar",
+    "contato": "İletişim",
+    "addressTitle": "Şirket adresi",
+    "companyAddress": "EFFECT IDEA, UNIPESSOAL LDA\nRua Casal Patrício, número 10, Anexo 2\n2735-246 Agualva-Cacém, Sintra, Lisboa, Portugal",
+    "emailLabel": "İletişim e-postası",
+    "email": "support@goklinik.com",
+    "privacy": "Gizlilik Politikası",
+    "terms": "Kullanım Şartları",
+    "rights": "Tüm hakları saklıdır."
+  },
+  "privacidade": {
+    "label": "Yasal bilgi",
+    "title": "Gizlilik Politikası",
+    "intro": "Bu Gizlilik Politikası, GoKlinik web sitesi üzerinden toplanan kişisel verilerin lansman listesi ve ilgili kliniklerle ticari iletişim kapsamında nasıl işlendiğini açıklar.",
+    "updated": "Son güncelleme: 29 Temmuz 2026",
+    "sections": {
+      "responsavel": {
+        "title": "Veri sorumlusu",
+        "body": "Kişisel verilerin işlenmesinden sorumlu kuruluş EFFECT IDEA, UNIPESSOAL LDA, NIPC 516695835 olup kayıtlı adresi Rua Casal Patrício, número 10, Anexo 2, 2735-246 Agualva-Cacém, Sintra, Lisboa, Portugal şeklindedir.\nYasal temsilci: Marlúcia Carvalho Bernardo Moreira, Müdür."
+      },
+      "dados": {
+        "title": "Toplanan kişisel veriler",
+        "body": "Web sitesindeki iletişim formu aracılığıyla klinik veya sorumlu kişinin adı, profesyonel e-posta adresi, ülke koduyla birlikte telefon numarası ve belirtildiğinde klinik adı toplanabilir. Bu web sitesi üzerinden hastalara ait klinik veriler talep edilmez."
+      },
+      "finalidades": {
+        "title": "İşleme amaçları",
+        "body": "Toplanan veriler GoKlinik lansmanı ile ilgili ticari iletişim, lansman listesinin yönetimi, form üzerinden gönderilen taleplere yanıt verilmesi ve gelecekteki olası bir sözleşme ilişkisinin hazırlanması veya resmileştirilmesi için kullanılır."
+      },
+      "baseLegal": {
+        "title": "Hukuki dayanak",
+        "body": "Veri işleme faaliyetleri, sözleşme öncesi adımlar, ticari taleplere yanıt verilmesine ilişkin meşru menfaat ve gerekli durumlarda rıza dahil olmak üzere Avrupa Birliği Genel Veri Koruma Tüzüğü uyarınca yürütülür.\nTürkiye'de bulunan kuruluşlarla iletişim bakımından KVKK olarak bilinen 6698 sayılı Kişisel Verilerin Korunması Kanunu ilkeleri de dikkate alınır."
+      },
+      "conservacao": {
+        "title": "Saklama süresi",
+        "body": "Veriler lansman listesini yönetmek, talep edilen ticari iletişimi sürdürmek ve geçerli yasal yükümlülüklere uymak için gerekli süre boyunca saklanır. Genel olarak iletişim verileri, son etkileşimden sonra 24 aya kadar saklanabilir. Bir sözleşme ilişkisi veya yasal yükümlülük farklı bir süre gerektirirse bu süre değişebilir."
+      },
+      "direitos": {
+        "title": "İlgili kişinin hakları",
+        "body": "İlgili kişi, geçerli kurallar kapsamında verilerine erişim, düzeltme, silme, işleme itiraz ve veri taşınabilirliği haklarını talep edebilir. Bu haklar support@goklinik.com adresine e-posta gönderilerek kullanılabilir.\nTalep, yürürlükteki mevzuatta öngörülen süreler içinde incelenir ve yanıtlanır."
+      },
+      "cookies": {
+        "title": "Çerezler",
+        "body": "Web sitesi doğru gezinme, dil tercihleri ve güvenlik için gerekli teknik çerezleri veya benzer teknolojileri kullanabilir. Gelecekte analitik veya pazarlama çerezleri kullanılırsa kullanıcıya uygun bilgiler ve seçenekler sunulur."
+      },
+      "partilha": {
+        "title": "Veri paylaşımı",
+        "body": "Kişisel veriler, bu Gizlilik Politikasında açıklanan amaçlar dışında üçüncü taraflarla paylaşılmaz. Yasal yükümlülüklere uymak, yetkili makamlara yanıt vermek veya web sitesinin çalışması için gerekli teknik hizmetleri yürütmek gereken durumlar bunun dışındadır."
+      },
+      "contacto": {
+        "title": "Gizlilik için iletişim",
+        "body": "Gizlilik, veri koruma veya hakların kullanımıyla ilgili sorular için EFFECT IDEA, UNIPESSOAL LDA ile support@goklinik.com adresinden iletişime geçebilirsiniz."
+      }
+    }
+  },
+  "termos": {
+    "label": "Yasal bilgi",
+    "title": "Kullanım Şartları",
+    "intro": "Bu Kullanım Şartları, GoKlinik lansman web sitesine erişimi ve sitenin kullanımını düzenler. Bu web sitesini kullanan kullanıcı, aşağıdaki koşulları anladığını kabul eder.",
+    "updated": "Son güncelleme: 29 Temmuz 2026",
+    "sections": {
+      "responsavel": {
+        "title": "Web sitesinden sorumlu kuruluş",
+        "body": "Web sitesi EFFECT IDEA, UNIPESSOAL LDA, NIPC 516695835 tarafından sunulmaktadır. Kayıtlı adresi Rua Casal Patrício, número 10, Anexo 2, 2735-246 Agualva-Cacém, Sintra, Lisboa, Portugal şeklindedir.\nYasal temsilci: Marlúcia Carvalho Bernardo Moreira, Müdür.\nİletişim e-postası: support@goklinik.com."
+      },
+      "objeto": {
+        "title": "Web sitesinin amacı",
+        "body": "Bu web sitesinin amacı, uluslararası hastalara hizmet veren estetik cerrahi kliniklerine yönelik dijital bir çözüm olan GoKlinik ekosisteminin lansmanını tanıtmak ve duyurmaktır."
+      },
+      "formulario": {
+        "title": "İletişim formu ve lansman listesi",
+        "body": "İletişim formunu dolduran veya lansman listesine katılan kullanıcı, doğru, güncel ve eksiksiz veri sağlamayı kabul eder. Formun gönderilmesi otomatik olarak bir sözleşme ilişkisi oluşturmaz, ancak GoKlinik ekibinin ticari bilgiler ve sonraki adımlar için iletişime geçmesini sağlar."
+      },
+      "propriedade": {
+        "title": "Fikri mülkiyet",
+        "body": "GoKlinik ile ilgili metinler, görsel öğeler, görseller, markalar, logolar, ticari adlar, web sitesi yapısı ve diğer içerikler, aksi açıkça belirtilmedikçe EFFECT IDEA, UNIPESSOAL LDA'ya aittir. Önceden yazılı izin alınmadan çoğaltılması, kopyalanması, dağıtılması veya ticari amaçla kullanılması yasaktır."
+      },
+      "responsabilidade": {
+        "title": "Sorumluluğun sınırlandırılması",
+        "body": "EFFECT IDEA, UNIPESSOAL LDA web sitesini erişilebilir, güvenli ve güncel tutmaya çalışır, ancak kesintisiz, hatasız veya arızasız çalışma garantisi vermez. Sunulan ticari bilgiler bilgilendirme amaçlıdır ve fiyat, koşullar, süreler, özellikler ve kullanılabilirlik dahil olmak üzere daha sonra özel bir sözleşmeyle teyit edilebilir."
+      },
+      "leiForo": {
+        "title": "Uygulanacak hukuk ve yetkili yargı",
+        "body": "Bu Kullanım Şartları Portekiz hukuku ve Avrupa Birliği mevzuatı uyarınca yorumlanır. Türkiye'de bulunan müşteriler veya kuruluşlar bakımından geçerli Türk hukukunun zorunlu hükümleri de dikkate alınabilir. Uyuşmazlık halinde, kullanıcıyı koruyan zorunlu kurallar veya uluslararası yetki kuralları saklı kalmak kaydıyla, yasal olarak yetkili Portekiz mahkemeleri yetkilidir."
+      },
+      "contacto": {
+        "title": "İletişim",
+        "body": "Bu Kullanım Şartları hakkında herhangi bir soru için EFFECT IDEA, UNIPESSOAL LDA ile support@goklinik.com adresinden iletişime geçebilirsiniz."
+      }
+    }
+  }
+}

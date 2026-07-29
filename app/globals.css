@@ -1,26 +1,86 @@
 @import "tailwindcss";
+@config "../tailwind.config.ts";
+
+@theme {
+  --color-primaryTeal: rgb(26, 107, 124);
+  --color-primaryTealDark: rgb(18, 78, 91);
+  --color-primaryTealLight: rgba(26, 107, 124, 0.1);
+  --color-goldAccent: rgb(216, 155, 40);
+  --color-goldAccentLight: rgba(216, 155, 40, 0.12);
+  --color-medicGreen: rgb(62, 107, 72);
+  --color-medicGreenLight: rgba(62, 107, 72, 0.12);
+  --color-backgroundDark: rgb(14, 23, 38);
+  --color-backgroundDarkElevated: rgb(22, 33, 51);
+  --color-backgroundWarmLight: rgb(249, 243, 239);
+  --color-backgroundCleanWhite: rgb(255, 255, 255);
+  --color-backgroundSubtleGray: rgb(245, 247, 250);
+  --color-headingDark: rgb(21, 27, 38);
+  --color-bodyDark: rgb(55, 65, 81);
+  --color-mutedDark: rgb(102, 112, 133);
+  --color-headingLight: rgb(255, 255, 255);
+  --color-bodyLight: rgba(255, 255, 255, 0.85);
+  --color-mutedLight: rgba(255, 255, 255, 0.6);
+  --font-heading:
+    var(--font-urbanist), Urbanist, -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-body: var(--font-sora), Sora, ui-sans-serif, system-ui, sans-serif;
+  --text-12: 12px;
+  --text-14: 14px;
+  --text-16: 16px;
+  --text-18: 18px;
+  --text-20: 20px;
+  --text-24: 24px;
+  --text-30: 30px;
+  --text-36: 36px;
+  --text-48: 48px;
+  --text-64: 64px;
+  --text-80: 80px;
+  --font-weight-light: 300;
+  --font-weight-regular: 400;
+  --font-weight-medium: 500;
+  --font-weight-semibold: 600;
+  --font-weight-bold: 700;
+  --font-weight-extrabold: 800;
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 20px;
+  --radius-xl: 30px;
+  --radius-pill: 100px;
+  --radius-circle: 50%;
+  --shadow-cardLeve: 0px 10px 25px -5px rgba(14, 23, 38, 0.08);
+  --shadow-destaqueTeal: 0px 20px 35px -10px rgba(26, 107, 124, 0.15);
+  --shadow-destaqueProfundo: 0px 25px 50px -12px rgba(14, 23, 38, 0.25);
+  --shadow-glowDourado: 0px 0px 25px rgba(216, 155, 40, 0.3);
+  --shadow-glowVerde: 0px 0px 30px rgba(62, 107, 72, 0.25);
+}
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  color-scheme: light;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+* {
+  box-sizing: border-box;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html {
+  scroll-behavior: smooth;
+  text-rendering: optimizeLegibility;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  min-height: 100vh;
+  margin: 0;
+  background: rgb(249, 243, 239);
+  color: rgb(55, 65, 81);
+}
+
+@layer base {
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+}
+
+::selection {
+  background: rgba(216, 155, 40, 0.28);
+  color: rgb(21, 27, 38);
 }

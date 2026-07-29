@@ -1,0 +1,358 @@
+{
+  "header": {
+    "navigationLabel": "Main navigation",
+    "solucao": "Solution",
+    "funcionalidades": "Features",
+    "precos": "Pricing",
+    "contato": "Contact",
+    "cta": "Book a launch call",
+    "languageLabel": "Language selector"
+  },
+  "hero": {
+    "badge": "Exclusive launch, limited spots",
+    "titulo_parte1": "Turn your clinic's postoperative care into an",
+    "titulo_destaque": "automatic profit engine",
+    "subtitulo": "Complete patient control, predictable revenue growth and automatic referrals, all in one ecosystem.",
+    "bullet1": "Solve postoperative follow-up completely",
+    "bullet2": "Increase revenue by up to 32%",
+    "bullet3": "Patients automatically referring new patients",
+    "bullet4": "Intelligent communication supported by artificial intelligence and your medical team",
+    "oferta_titulo": "By joining the launch list, secure",
+    "oferta_item1": "45% lifetime discount",
+    "oferta_item2": "From €945 to €499, forever",
+    "oferta_item3": "No future price increase under any circumstances",
+    "cta_principal": "I want to be a founding clinic",
+    "selo1": "No credit card required",
+    "selo2": "Limited spots",
+    "selo3": "Lifetime discount guaranteed",
+    "alt_dashboard": "GoKlinik web dashboard mockup for clinics",
+    "alt_mobile": "GoKlinik Patient mobile app mockup"
+  },
+  "problema": {
+    "titulo": "The real problem clinics face",
+    "intro": "The biggest challenge for an aesthetic surgery clinic is not attracting patients. The real problem starts after surgery.",
+    "item1": "Patients feel uncertain and lack proper follow-up",
+    "item2": "Overloaded teams and poor communication between departments",
+    "item3": "No real control over return appointments",
+    "item4": "Zero predictability over future revenue",
+    "resultado_titulo": "The result",
+    "resultado_texto": "Patients do not return, do not refer new patients and the clinic loses revenue every month.",
+    "cta": "I want launch priority",
+    "alt_clinic": "Overloaded clinic receptionist handling phone calls, documents and administrative tasks"
+  },
+  "solucao": {
+    "titulo": "Now imagine having this solved automatically",
+    "subtitulo": "With GoKlinik, your clinic gains a complete ecosystem for follow-up and growth.",
+    "feature1_titulo": "Complete patient control",
+    "feature1_texto": "Track every stage of postoperative care in real time, from day one to final discharge.",
+    "feature2_titulo": "Centralized communication",
+    "feature2_texto": "Chat, alerts and notifications in one place, without scattering information across different apps.",
+    "feature3_titulo": "Intelligent postoperative care",
+    "feature3_texto": "Automated protocols adapted to each type of procedure performed.",
+    "feature4_titulo": "Automatic engagement",
+    "feature4_texto": "Patients receive clear reminders and guidance without manual effort from the team.",
+    "feature5_titulo": "Predictable return",
+    "feature5_texto": "Clear data on patient retention and the clinic's future revenue.",
+    "card_app_paciente": "Patient App",
+    "card_app_medico": "Doctor App",
+    "card_dashboard": "Clinic Dashboard",
+    "cta": "I want this solution in my clinic",
+    "alt_app_paciente": "GoKlinik Patient app mockup with patient schedule",
+    "alt_app_medico": "GoKlinik Medic app mockup with patient messages",
+    "alt_dashboard": "GoKlinik web dashboard mockup for the clinic",
+    "alt_patient_logo": "GoKlinik Patient logo",
+    "alt_medic_logo": "GoKlinik Medic logo"
+  },
+  "dashboard": {
+    "titulo": "Your clinic under total control, in real time",
+    "subtitulo": "Decisions based on real data, not guesswork",
+    "item1_titulo": "Real-time revenue",
+    "item1_texto": "Track your clinic's revenue as it updates moment by moment",
+    "item2_titulo": "Professional performance",
+    "item2_texto": "View the individual performance of every team member",
+    "item3_titulo": "Patient progress",
+    "item3_texto": "Follow the complete journey of each patient in the clinic",
+    "item4_titulo": "Intelligent alerts",
+    "item4_texto": "Receive automatic alerts about points that require attention",
+    "item5_titulo": "Complete history",
+    "item5_texto": "Access the full history of appointments and procedures",
+    "metrica1_valor": "32%",
+    "metrica1_texto": "Revenue increase",
+    "metrica2_valor": "100%",
+    "metrica2_texto": "Postoperative control",
+    "metrica3_valor": "3 times",
+    "metrica3_texto": "More patient returns",
+    "cta": "I want to increase my clinic's revenue",
+    "alt_dashboard": "GoKlinik web dashboard with clinic operational data"
+  },
+  "experienciaPaciente": {
+    "titulo": "The patient has the clinic in the palm of their hand",
+    "subtitulo": "A complete experience, from first contact to final discharge",
+    "item1_titulo": "Access to the complete medical record",
+    "item1_texto": "The patient follows their entire clinical history through the app",
+    "item2_titulo": "Medication and history",
+    "item2_texto": "Clear reminders about medication and postoperative care",
+    "item3_titulo": "Schedule and automatic reminders",
+    "item3_texto": "Appointments and return visits organized automatically",
+    "item4_titulo": "Direct chat with the medical team",
+    "item4_texto": "Fast and secure communication with the people caring for the patient",
+    "item5_titulo": "Artificial intelligence answers with a human touch",
+    "item5_texto": "Frequently asked questions resolved immediately, with human support when needed",
+    "item6_titulo": "Photo tracking of recovery",
+    "item6_texto": "Follow recovery progress through daily photos and notes",
+    "frase_impacto": "A safer patient means more satisfaction, and more satisfaction means more referrals",
+    "cta": "I want this experience for my patients",
+    "alt_app": "GoKlinik Patient app with patient schedule and reminders"
+  },
+  "paciente": {
+    "title": "TODO: paciente",
+    "body": "TODO"
+  },
+  "crescimento": {
+    "titulo": "Turn every patient into a promoter of your clinic",
+    "subtitulo": "An automatic referral system designed for organic growth",
+    "passo1_titulo": "The patient receives an exclusive link",
+    "passo1_texto": "Each patient has their own personal referral link",
+    "passo2_titulo": "They share it with friends and family",
+    "passo2_texto": "The referral happens naturally inside the app itself",
+    "passo3_titulo": "The system identifies the referral automatically",
+    "passo3_texto": "No manual processes or spreadsheet tracking",
+    "passo4_titulo": "The clinic controls the benefits",
+    "passo4_texto": "Define the rules and benefits for each referral with full autonomy",
+    "passo5_titulo": "Continuous organic growth",
+    "passo5_texto": "New patients arrive through people who already trust the clinic",
+    "destaque": "New patient acquisition at zero cost",
+    "cta": "I want more patients at no additional cost",
+    "alt_referrals": "GoKlinik dashboard with patient referral control"
+  },
+  "whiteLabel": {
+    "titulo": "Your app, your brand, your total control",
+    "subtitulo": "The GoKlinik ecosystem adapts to your clinic's visual identity",
+    "item1_titulo": "Custom colors",
+    "item1_texto": "Adapt the app's visual identity to your clinic's official colors",
+    "item2_titulo": "Clinic logo inside the app",
+    "item2_texto": "Your patients recognize and trust your clinic's brand",
+    "item3_titulo": "Fully personalized experience",
+    "item3_texto": "The app feels as if it was developed exclusively for your clinic",
+    "cta": "I want an exclusive app for my clinic",
+    "alt_patient_variant": "GoKlinik Patient app with blue visual identity",
+    "alt_medic_variant": "GoKlinik Medic app with green visual identity"
+  },
+  "gestaoEquipe": {
+    "titulo": "An organized and productive team",
+    "subtitulo": "Complete control over people, access and internal processes",
+    "item1_titulo": "Access control by level",
+    "item1_texto": "Define exactly what each team member can view or change",
+    "item2_titulo": "Complete management of professionals",
+    "item2_texto": "Organize the entire medical and administrative team in one place",
+    "item3_titulo": "Detailed action history",
+    "item3_texto": "Track every action performed inside the system, with complete traceability",
+    "item4_titulo": "Total organization without chaos",
+    "item4_texto": "Clear processes replace improvisation and rework",
+    "frase_impacto": "More efficiency, less chaos",
+    "cta": "I want to organize my team with GoKlinik",
+    "alt_team_photo": "Diverse medical team in a hospital environment",
+    "alt_team_dashboard": "GoKlinik dashboard for clinic team management"
+  },
+  "whitelabel": {
+    "title": "TODO: whitelabel",
+    "body": "TODO"
+  },
+  "equipe": {
+    "title": "TODO: equipe",
+    "body": "TODO"
+  },
+  "resultados": {
+    "titulo": "Results that directly impact revenue",
+    "subtitulo": "Clinics that use GoKlinik grow consistently",
+    "metrica1_valor": "32%",
+    "metrica1_texto": "Revenue increase",
+    "metrica2_valor": "3 times",
+    "metrica2_texto": "More patient returns",
+    "metrica3_valor": "100%",
+    "metrica3_texto": "Controlled postoperative care",
+    "metrica4_valor": "Infinite",
+    "metrica4_texto": "Referrals at no additional cost",
+    "lista_item1": "More patient returns",
+    "lista_item2": "More organic referrals",
+    "lista_item3": "More financial predictability",
+    "lista_item4": "Consistent month-by-month growth",
+    "cta": "I want these results in my clinic",
+    "alt_revenue_dashboard": "GoKlinik dashboard with the clinic's revenue analytics",
+    "alt_patient_result": "Satisfied patient in a clinic consultation"
+  },
+  "precos": {
+    "badge": "Exclusive offer for founding clinics",
+    "aviso": "This condition will not be repeated after launch",
+    "plano_normal_nome": "Normal Plan",
+    "plano_normal_valor_eur": "€945 per month",
+    "plano_normal_valor_try": "48500 Turkish lira",
+    "plano_normal_item1": "Full access",
+    "plano_normal_item2": "Management dashboard",
+    "plano_normal_item3": "Patient app",
+    "plano_normal_item4": "Doctor app",
+    "plano_normal_item5": "Referral system",
+    "plano_normal_item6": "Standard support",
+    "plano_normal_indisponivel": "Unavailable after launch",
+    "plano_fundador_badge": "Most popular, launch offer",
+    "plano_fundador_nome": "Founder Plan",
+    "plano_fundador_valor_atual": "€499 per month",
+    "plano_fundador_valor_original": "€945",
+    "plano_fundador_valor_try": "25600 Turkish lira",
+    "plano_fundador_economia": "Save €446 per month, forever",
+    "plano_fundador_item1": "Everything in the complete plan",
+    "plano_fundador_item2": "45% lifetime discount",
+    "plano_fundador_item3": "No future price increase under any circumstances",
+    "plano_fundador_item4": "Official founding clinic status",
+    "plano_fundador_item5": "Maximum support priority",
+    "plano_fundador_item6": "Early access to new features",
+    "plano_fundador_cta": "Secure my spot with a 45% discount",
+    "selo1": "No commitment to stay",
+    "selo2": "100% secure environment",
+    "selo3": "Limited spots",
+    "aviso_final": "This condition will never be offered again after the launch closes",
+    "destaque1_titulo": "Limited spots",
+    "destaque1_texto": "Reserved only for selected clinics",
+    "destaque2_titulo": "Launch deadline",
+    "destaque2_texto": "After launch, the price returns to €945 per month",
+    "destaque3_titulo": "Permanent benefit",
+    "destaque3_texto": "Clinics that join now secure the discount forever"
+  },
+  "ctaFinal": {
+    "titulo": "Launch is close, spots are running out",
+    "subtitulo": "Join the launch list now and be one of the first clinics to transform postoperative care",
+    "item1": "Fully master postoperative care",
+    "item2": "Increase revenue predictably",
+    "item3": "Create organic and consistent growth",
+    "cta": "I want to be a founding clinic",
+    "selo1": "Lifetime discount guaranteed",
+    "selo2": "No future price increase",
+    "selo3": "Limited spots",
+    "alt_istanbul": "View of Istanbul with mosques and the Bosphorus"
+  },
+  "ctafinal": {
+    "title": "TODO: ctafinal",
+    "body": "TODO"
+  },
+  "formulario": {
+    "titulo": "Secure your spot now with exclusive conditions",
+    "beneficio1": "45% lifetime discount on the monthly fee",
+    "beneficio2": "No price increases, forever",
+    "beneficio3": "Absolute priority at launch",
+    "campo_nome_label": "Clinic name or responsible person",
+    "campo_nome_placeholder": "Write your full name",
+    "campo_email_label": "Professional email",
+    "campo_email_placeholder": "Write your best email",
+    "campo_telefone_label": "Phone with country code",
+    "campo_telefone_placeholder": "Example, plus 44 7000 000000",
+    "campo_clinica_label": "Clinic name, optional",
+    "campo_clinica_placeholder": "Write your clinic name",
+    "botao_enviar": "Secure my spot with a 45% discount",
+    "botao_enviando": "Sending your request",
+    "mensagem_sucesso": "Request received successfully. Our team will contact you soon.",
+    "mensagem_erro": "It is not possible to send your request at this moment. Please try again in a few moments.",
+    "erro_nome_obrigatorio": "Name is required",
+    "erro_email_invalido": "Write a valid email",
+    "erro_telefone_obrigatorio": "Phone is required",
+    "aviso_privacidade": "Your data is safe, no spam"
+  },
+  "contato": {
+    "title": "TODO: contato",
+    "body": "TODO"
+  },
+  "footer": {
+    "tagline": "Technology that transforms clinics",
+    "navigationLabel": "Footer navigation",
+    "solucao": "Solution",
+    "funcionalidades": "Features",
+    "precos": "Pricing",
+    "contato": "Contact",
+    "addressTitle": "Company address",
+    "companyAddress": "EFFECT IDEA, UNIPESSOAL LDA\nRua Casal Patrício, número 10, Anexo 2\n2735-246 Agualva-Cacém, Sintra, Lisboa, Portugal",
+    "emailLabel": "Contact email",
+    "email": "support@goklinik.com",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use",
+    "rights": "All rights reserved."
+  },
+  "privacidade": {
+    "label": "Legal information",
+    "title": "Privacy Policy",
+    "intro": "This Privacy Policy explains how personal data collected through the GoKlinik website is processed in connection with the launch list and commercial contact with interested clinics.",
+    "updated": "Last updated: July 29, 2026",
+    "sections": {
+      "responsavel": {
+        "title": "Controller identity",
+        "body": "The entity responsible for processing personal data is EFFECT IDEA, UNIPESSOAL LDA, NIPC 516695835, with registered address at Rua Casal Patrício, número 10, Anexo 2, 2735-246 Agualva-Cacém, Sintra, Lisboa, Portugal.\nLegal representative: Marlúcia Carvalho Bernardo Moreira, Manager."
+      },
+      "dados": {
+        "title": "Personal data collected",
+        "body": "Through the website contact form, we may collect the clinic or responsible person's name, professional email, phone number with country code and clinic name, when provided. We do not request patient clinical data through this website."
+      },
+      "finalidades": {
+        "title": "Purposes of processing",
+        "body": "The collected data is used for commercial contact related to the GoKlinik launch, management of the launch list, response to requests submitted through the form and possible preparation or formalization of a future contractual relationship."
+      },
+      "baseLegal": {
+        "title": "Legal basis",
+        "body": "Data processing is carried out in accordance with the European Union General Data Protection Regulation, including pre contractual steps, legitimate interest in responding to commercial requests and consent where applicable.\nFor contacts with entities located in Turkey, we also consider the principles of Turkish personal data protection law, known as KVKK."
+      },
+      "conservacao": {
+        "title": "Retention period",
+        "body": "Data will be retained for the period needed to manage the launch list, maintain the requested commercial contact and comply with applicable legal obligations. As a general rule, contact data may be kept for up to 24 months after the last interaction, unless a contractual relationship or legal obligation justifies a different period."
+      },
+      "direitos": {
+        "title": "Data subject rights",
+        "body": "The data subject may request access, rectification, erasure, objection to processing and portability of their data, under applicable rules. These rights can be exercised by emailing support@goklinik.com.\nThe request will be reviewed and answered according to the deadlines set by applicable law."
+      },
+      "cookies": {
+        "title": "Cookies",
+        "body": "The website may use technical cookies or similar technologies needed for correct navigation, language preferences and security. If analytics or marketing cookies are used in the future, appropriate information and options will be made available to the user."
+      },
+      "partilha": {
+        "title": "Data sharing",
+        "body": "Personal data is not shared with third parties for purposes other than those described in this Privacy Policy, except when necessary to comply with legal obligations, respond to competent authorities or operate technical services essential to the website."
+      },
+      "contacto": {
+        "title": "Privacy contact",
+        "body": "For questions related to privacy, data protection or the exercise of rights, contact EFFECT IDEA, UNIPESSOAL LDA by email at support@goklinik.com."
+      }
+    }
+  },
+  "termos": {
+    "label": "Legal information",
+    "title": "Terms of Use",
+    "intro": "These Terms of Use govern access to and use of the GoKlinik launch website. By using this website, the user confirms that they understand the conditions below.",
+    "updated": "Last updated: July 29, 2026",
+    "sections": {
+      "responsavel": {
+        "title": "Entity responsible for the website",
+        "body": "The website is provided by EFFECT IDEA, UNIPESSOAL LDA, NIPC 516695835, with registered address at Rua Casal Patrício, número 10, Anexo 2, 2735-246 Agualva-Cacém, Sintra, Lisboa, Portugal.\nLegal representative: Marlúcia Carvalho Bernardo Moreira, Manager.\nContact email: support@goklinik.com."
+      },
+      "objeto": {
+        "title": "Purpose of the website",
+        "body": "This website is intended to present and promote the launch of the GoKlinik ecosystem, a digital solution for aesthetic surgery clinics that support international patients."
+      },
+      "formulario": {
+        "title": "Contact form and launch list",
+        "body": "When filling in the contact form or joining the launch list, the user agrees to provide true, current and complete data. Submitting the form does not automatically create a contractual relationship, but allows the GoKlinik team to make contact with commercial information and next steps."
+      },
+      "propriedade": {
+        "title": "Intellectual property",
+        "body": "The texts, visual elements, images, trademarks, logos, trade names, website structure and other content related to GoKlinik belong to EFFECT IDEA, UNIPESSOAL LDA, unless expressly stated otherwise. Reproduction, copying, distribution or commercial use is prohibited without prior written authorization."
+      },
+      "responsabilidade": {
+        "title": "Limitation of liability",
+        "body": "EFFECT IDEA, UNIPESSOAL LDA seeks to keep the website available, secure and updated, but does not guarantee continuous operation free from failures or interruptions. The commercial information presented is informational and may depend on later confirmation in a specific contract, including price, conditions, deadlines, features and availability."
+      },
+      "leiForo": {
+        "title": "Applicable law and competent jurisdiction",
+        "body": "These Terms of Use are interpreted in accordance with Portuguese and European Union law. For clients or entities located in Turkey, mandatory requirements of applicable Turkish law may also be considered. In case of dispute, the legally applicable Portuguese courts shall have jurisdiction, without prejudice to mandatory user protection or international jurisdiction rules."
+      },
+      "contacto": {
+        "title": "Contact",
+        "body": "For any question about these Terms of Use, contact EFFECT IDEA, UNIPESSOAL LDA by email at support@goklinik.com."
+      }
+    }
+  }
+}

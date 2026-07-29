@@ -1,0 +1,358 @@
+{
+  "header": {
+    "navigationLabel": "Navegação principal",
+    "solucao": "Solução",
+    "funcionalidades": "Funcionalidades",
+    "precos": "Preços",
+    "contato": "Contacto",
+    "cta": "Marcar chamada de lançamento",
+    "languageLabel": "Seleção de idioma"
+  },
+  "hero": {
+    "badge": "Lançamento exclusivo, vagas limitadas",
+    "titulo_parte1": "Transforme o pós operatório da sua clínica em uma",
+    "titulo_destaque": "máquina de lucro automático",
+    "subtitulo": "Controle total dos pacientes, aumento previsível de faturamento e indicações automáticas, tudo em um único ecossistema.",
+    "bullet1": "Resolva por completo o acompanhamento pós operatório",
+    "bullet2": "Aumente o faturamento em até 32%",
+    "bullet3": "Pacientes indicando novos pacientes de forma automática",
+    "bullet4": "Comunicação inteligente com apoio de inteligência artificial e equipe médica",
+    "oferta_titulo": "Ao entrar para a lista de lançamento, garanta",
+    "oferta_item1": "45% de desconto vitalício",
+    "oferta_item2": "De €945 para €499, para sempre",
+    "oferta_item3": "Sem reajuste futuro em nenhuma hipótese",
+    "cta_principal": "Quero ser clínica fundadora",
+    "selo1": "Sem necessidade de cartão de crédito",
+    "selo2": "Vagas limitadas",
+    "selo3": "Desconto vitalício garantido",
+    "alt_dashboard": "Mockup do painel web GoKlinik para clínicas",
+    "alt_mobile": "Mockup do aplicativo GoKlinik Patient no telemóvel"
+  },
+  "problema": {
+    "titulo": "O verdadeiro problema das clínicas",
+    "intro": "O maior desafio de uma clínica de cirurgia estética não é atrair pacientes. O verdadeiro problema começa depois da cirurgia.",
+    "item1": "Pacientes inseguros e sem acompanhamento adequado",
+    "item2": "Equipe sobrecarregada e comunicação falha entre setores",
+    "item3": "Nenhum controle real sobre consultas de retorno",
+    "item4": "Zero previsibilidade sobre o faturamento futuro",
+    "resultado_titulo": "O resultado",
+    "resultado_texto": "Pacientes não retornam, não indicam novos pacientes e a clínica perde faturamento todos os meses.",
+    "cta": "Quero prioridade no lançamento",
+    "alt_clinic": "Recepcionista de clínica sobrecarregada com telefone, documentos e tarefas administrativas"
+  },
+  "solucao": {
+    "titulo": "Agora imagine ter isso resolvido de forma automática",
+    "subtitulo": "Com o GoKlinik, a sua clínica passa a contar com um ecossistema completo de acompanhamento e crescimento.",
+    "feature1_titulo": "Controle total do paciente",
+    "feature1_texto": "Acompanhe cada etapa do pós operatório em tempo real, do primeiro dia até à alta definitiva.",
+    "feature2_titulo": "Comunicação centralizada",
+    "feature2_texto": "Chat, alertas e notificações em um único lugar, sem dispersão entre aplicativos diferentes.",
+    "feature3_titulo": "Pós operatório inteligente",
+    "feature3_texto": "Protocolos automáticos adaptados a cada tipo de procedimento realizado.",
+    "feature4_titulo": "Engajamento automático",
+    "feature4_texto": "O paciente recebe lembretes e orientações claras, sem esforço manual da equipe.",
+    "feature5_titulo": "Retorno previsível",
+    "feature5_texto": "Dados claros sobre retenção de pacientes e faturamento futuro da clínica.",
+    "card_app_paciente": "App do Paciente",
+    "card_app_medico": "App do Médico",
+    "card_dashboard": "Painel da Clínica",
+    "cta": "Quero essa solução na minha clínica",
+    "alt_app_paciente": "Mockup do aplicativo GoKlinik Patient com agenda do paciente",
+    "alt_app_medico": "Mockup do aplicativo GoKlinik Medic com mensagens de pacientes",
+    "alt_dashboard": "Mockup do painel web GoKlinik para a clínica",
+    "alt_patient_logo": "Logo GoKlinik Patient",
+    "alt_medic_logo": "Logo GoKlinik Medic"
+  },
+  "dashboard": {
+    "titulo": "A sua clínica sob controlo total, em tempo real",
+    "subtitulo": "Decisões baseadas em dados reais, não em achismo",
+    "item1_titulo": "Receita em tempo real",
+    "item1_texto": "Acompanhe a receita da clínica atualizada a cada momento",
+    "item2_titulo": "Performance dos profissionais",
+    "item2_texto": "Visualize o desempenho individual de cada membro da equipe",
+    "item3_titulo": "Evolução dos pacientes",
+    "item3_texto": "Acompanhe a jornada completa de cada paciente na clínica",
+    "item4_titulo": "Alertas inteligentes",
+    "item4_texto": "Receba avisos automáticos sobre pontos que exigem atenção",
+    "item5_titulo": "Histórico completo",
+    "item5_texto": "Consulte todo o histórico de atendimentos e procedimentos",
+    "metrica1_valor": "32%",
+    "metrica1_texto": "Aumento no faturamento",
+    "metrica2_valor": "100%",
+    "metrica2_texto": "Controlo do pós operatório",
+    "metrica3_valor": "3 vezes",
+    "metrica3_texto": "Mais retorno de pacientes",
+    "cta": "Quero aumentar o faturamento da minha clínica",
+    "alt_dashboard": "Painel web GoKlinik com dados operacionais da clínica"
+  },
+  "experienciaPaciente": {
+    "titulo": "O paciente com a clínica na palma da mão",
+    "subtitulo": "Uma experiência completa, do primeiro contacto até à alta final",
+    "item1_titulo": "Acesso ao prontuário completo",
+    "item1_texto": "O paciente acompanha todo o seu histórico clínico pelo aplicativo",
+    "item2_titulo": "Medicação e histórico",
+    "item2_texto": "Lembretes claros sobre medicação e cuidados pós operatórios",
+    "item3_titulo": "Agenda e lembretes automáticos",
+    "item3_texto": "Consultas e retornos organizados automaticamente",
+    "item4_titulo": "Chat direto com a equipe médica",
+    "item4_texto": "Comunicação rápida e segura com quem cuida do paciente",
+    "item5_titulo": "Respostas com inteligência artificial e toque humano",
+    "item5_texto": "Dúvidas frequentes resolvidas de forma imediata, com apoio humano quando necessário",
+    "item6_titulo": "Registo fotográfico da recuperação",
+    "item6_texto": "Acompanhe a evolução da recuperação através de fotos e notas do dia a dia",
+    "frase_impacto": "Paciente mais seguro significa mais satisfação, e mais satisfação significa mais indicações",
+    "cta": "Quero essa experiência para os meus pacientes",
+    "alt_app": "Aplicativo GoKlinik Patient com agenda e lembretes do paciente"
+  },
+  "paciente": {
+    "title": "TODO: paciente",
+    "body": "TODO"
+  },
+  "crescimento": {
+    "titulo": "Transforme cada paciente num promotor da sua clínica",
+    "subtitulo": "Um sistema de indicação automático, pensado para crescimento orgânico",
+    "passo1_titulo": "O paciente recebe um link exclusivo",
+    "passo1_texto": "Cada paciente tem o seu próprio link pessoal de indicação",
+    "passo2_titulo": "Compartilha com amigos e familiares",
+    "passo2_texto": "A indicação acontece de forma natural, dentro do próprio aplicativo",
+    "passo3_titulo": "O sistema identifica a indicação automaticamente",
+    "passo3_texto": "Sem processos manuais ou controle em planilhas",
+    "passo4_titulo": "A clínica controla os benefícios",
+    "passo4_texto": "Defina as regras e benefícios de cada indicação com total autonomia",
+    "passo5_titulo": "Crescimento orgânico contínuo",
+    "passo5_texto": "Novos pacientes chegam através de quem já confia na clínica",
+    "destaque": "Aquisição de novos pacientes a custo zero",
+    "cta": "Quero mais pacientes sem custo adicional",
+    "alt_referrals": "Painel GoKlinik com controlo de indicações de pacientes"
+  },
+  "whiteLabel": {
+    "titulo": "O seu aplicativo, a sua marca, o seu controlo total",
+    "subtitulo": "O ecossistema GoKlinik veste a identidade visual da sua clínica",
+    "item1_titulo": "Cores personalizadas",
+    "item1_texto": "Adapte a identidade visual do aplicativo às cores oficiais da sua clínica",
+    "item2_titulo": "Logo da clínica no aplicativo",
+    "item2_texto": "Os seus pacientes reconhecem e confiam na marca da sua clínica",
+    "item3_titulo": "Experiência totalmente personalizada",
+    "item3_texto": "O aplicativo parece ter sido desenvolvido exclusivamente para a sua clínica",
+    "cta": "Quero um aplicativo exclusivo para a minha clínica",
+    "alt_patient_variant": "Aplicativo GoKlinik Patient com identidade visual azul",
+    "alt_medic_variant": "Aplicativo GoKlinik Medic com identidade visual verde"
+  },
+  "gestaoEquipe": {
+    "titulo": "Equipa organizada e produtiva",
+    "subtitulo": "Controlo total sobre pessoas, acessos e processos internos",
+    "item1_titulo": "Controlo de acessos por nível",
+    "item1_texto": "Defina exatamente o que cada membro da equipe pode visualizar ou alterar",
+    "item2_titulo": "Gestão completa de profissionais",
+    "item2_texto": "Organize toda a equipe médica e administrativa num único lugar",
+    "item3_titulo": "Histórico detalhado de ações",
+    "item3_texto": "Acompanhe cada ação realizada dentro do sistema, com total rastreabilidade",
+    "item4_titulo": "Organização total sem caos",
+    "item4_texto": "Processos claros substituem improviso e retrabalho",
+    "frase_impacto": "Mais eficiência, menos caos",
+    "cta": "Quero organizar a minha equipa com o GoKlinik",
+    "alt_team_photo": "Equipe médica diversa em ambiente hospitalar",
+    "alt_team_dashboard": "Painel GoKlinik para gestão da equipe da clínica"
+  },
+  "whitelabel": {
+    "title": "TODO: whitelabel",
+    "body": "TODO"
+  },
+  "equipe": {
+    "title": "TODO: equipe",
+    "body": "TODO"
+  },
+  "resultados": {
+    "titulo": "Resultados que impactam diretamente o faturamento",
+    "subtitulo": "Clínicas que usam o GoKlinik crescem de forma consistente",
+    "metrica1_valor": "32%",
+    "metrica1_texto": "Aumento no faturamento",
+    "metrica2_valor": "3 vezes",
+    "metrica2_texto": "Mais retorno de pacientes",
+    "metrica3_valor": "100%",
+    "metrica3_texto": "Pós operatório controlado",
+    "metrica4_valor": "Infinito",
+    "metrica4_texto": "Indicações sem custo adicional",
+    "lista_item1": "Mais retorno de pacientes",
+    "lista_item2": "Mais indicações orgânicas",
+    "lista_item3": "Mais previsibilidade financeira",
+    "lista_item4": "Crescimento consistente mês a mês",
+    "cta": "Quero esses resultados na minha clínica",
+    "alt_revenue_dashboard": "Painel GoKlinik com análise de receita da clínica",
+    "alt_patient_result": "Paciente satisfeita em consulta clínica"
+  },
+  "precos": {
+    "badge": "Oferta exclusiva para clínicas fundadoras",
+    "aviso": "Esta condição não será repetida após o lançamento",
+    "plano_normal_nome": "Plano Normal",
+    "plano_normal_valor_eur": "€945 por mês",
+    "plano_normal_valor_try": "48500 liras turcas",
+    "plano_normal_item1": "Acesso completo",
+    "plano_normal_item2": "Painel de gestão",
+    "plano_normal_item3": "Aplicativo do paciente",
+    "plano_normal_item4": "Aplicativo do médico",
+    "plano_normal_item5": "Sistema de indicação",
+    "plano_normal_item6": "Suporte padrão",
+    "plano_normal_indisponivel": "Indisponível após o lançamento",
+    "plano_fundador_badge": "Mais popular, oferta de lançamento",
+    "plano_fundador_nome": "Plano Fundador",
+    "plano_fundador_valor_atual": "€499 por mês",
+    "plano_fundador_valor_original": "€945",
+    "plano_fundador_valor_try": "25600 liras turcas",
+    "plano_fundador_economia": "Poupe €446 por mês, para sempre",
+    "plano_fundador_item1": "Tudo do plano completo",
+    "plano_fundador_item2": "45% de desconto vitalício",
+    "plano_fundador_item3": "Sem reajuste futuro em nenhuma hipótese",
+    "plano_fundador_item4": "Status oficial de clínica fundadora",
+    "plano_fundador_item5": "Prioridade máxima em suporte",
+    "plano_fundador_item6": "Acesso antecipado a novas funcionalidades",
+    "plano_fundador_cta": "Garantir a minha vaga com 45% de desconto",
+    "selo1": "Sem compromisso de permanência",
+    "selo2": "Ambiente 100% seguro",
+    "selo3": "Vagas limitadas",
+    "aviso_final": "Esta condição nunca mais será oferecida após o encerramento do lançamento",
+    "destaque1_titulo": "Vagas limitadas",
+    "destaque1_texto": "Reservadas apenas para clínicas selecionadas",
+    "destaque2_titulo": "Prazo do lançamento",
+    "destaque2_texto": "Após o lançamento, o preço volta a ser €945 por mês",
+    "destaque3_titulo": "Benefício permanente",
+    "destaque3_texto": "Quem entrar agora garante o desconto para sempre"
+  },
+  "ctaFinal": {
+    "titulo": "O lançamento está próximo, as vagas estão a acabar",
+    "subtitulo": "Entre agora na lista de lançamento e seja uma das primeiras clínicas a transformar o seu pós operatório",
+    "item1": "Dominar por completo o pós operatório",
+    "item2": "Aumentar o faturamento de forma previsível",
+    "item3": "Criar um crescimento orgânico e consistente",
+    "cta": "Quero ser clínica fundadora",
+    "selo1": "Desconto vitalício garantido",
+    "selo2": "Sem reajuste futuro",
+    "selo3": "Vagas limitadas",
+    "alt_istanbul": "Vista de Istambul com mesquitas e o Bósforo"
+  },
+  "ctafinal": {
+    "title": "TODO: ctafinal",
+    "body": "TODO"
+  },
+  "formulario": {
+    "titulo": "Garanta já a sua vaga com condições exclusivas",
+    "beneficio1": "45% de desconto vitalício na mensalidade",
+    "beneficio2": "Sem reajustes, para sempre",
+    "beneficio3": "Prioridade absoluta no lançamento",
+    "campo_nome_label": "Nome da clínica ou responsável",
+    "campo_nome_placeholder": "Escreva o seu nome completo",
+    "campo_email_label": "Email profissional",
+    "campo_email_placeholder": "Escreva o seu melhor email",
+    "campo_telefone_label": "Telefone com código do país",
+    "campo_telefone_placeholder": "Exemplo, mais 351 900 000 000",
+    "campo_clinica_label": "Nome da clínica, opcional",
+    "campo_clinica_placeholder": "Escreva o nome da sua clínica",
+    "botao_enviar": "Garantir a minha vaga com 45% de desconto",
+    "botao_enviando": "A enviar o seu pedido",
+    "mensagem_sucesso": "Pedido recebido com sucesso. A nossa equipa entrará em contacto em breve.",
+    "mensagem_erro": "Não foi possível enviar o seu pedido neste momento. Tente novamente em alguns instantes.",
+    "erro_nome_obrigatorio": "O nome é obrigatório",
+    "erro_email_invalido": "Escreva um email válido",
+    "erro_telefone_obrigatorio": "O telefone é obrigatório",
+    "aviso_privacidade": "Os seus dados estão seguros, sem spam"
+  },
+  "contato": {
+    "title": "TODO: contacto",
+    "body": "TODO"
+  },
+  "footer": {
+    "tagline": "Tecnologia que transforma clínicas",
+    "navigationLabel": "Navegação de rodapé",
+    "solucao": "Solução",
+    "funcionalidades": "Funcionalidades",
+    "precos": "Preços",
+    "contato": "Contacto",
+    "addressTitle": "Endereço",
+    "companyAddress": "EFFECT IDEA, UNIPESSOAL LDA\nRua Casal Patrício, número 10, Anexo 2\n2735-246 Agualva-Cacém, Sintra, Lisboa, Portugal",
+    "emailLabel": "Email de contacto",
+    "email": "support@goklinik.com",
+    "privacy": "Política de Privacidade",
+    "terms": "Termos de Uso",
+    "rights": "Todos os direitos reservados."
+  },
+  "privacidade": {
+    "label": "Informação legal",
+    "title": "Política de Privacidade",
+    "intro": "Esta Política de Privacidade explica como os dados pessoais recolhidos através do site do GoKlinik são tratados no contexto da lista de lançamento e do contacto comercial com clínicas interessadas.",
+    "updated": "Última atualização: 29 de julho de 2026",
+    "sections": {
+      "responsavel": {
+        "title": "Entidade responsável",
+        "body": "A entidade responsável pelo tratamento dos dados pessoais é EFFECT IDEA, UNIPESSOAL LDA, NIPC 516695835, com sede em Rua Casal Patrício, número 10, Anexo 2, 2735-246 Agualva-Cacém, Sintra, Lisboa, Portugal.\nRepresentante legal: Marlúcia Carvalho Bernardo Moreira, Gerente."
+      },
+      "dados": {
+        "title": "Dados pessoais recolhidos",
+        "body": "Através do formulário de contacto do site, podemos recolher nome da clínica ou do responsável, email profissional, telefone com código do país e nome da clínica, quando indicado. Não solicitamos dados clínicos de pacientes através deste site."
+      },
+      "finalidades": {
+        "title": "Finalidades do tratamento",
+        "body": "Os dados recolhidos são utilizados para contacto comercial relacionado com o lançamento do GoKlinik, gestão da lista de lançamento, resposta a pedidos enviados pelo formulário e eventual preparação ou formalização de uma relação contratual futura."
+      },
+      "baseLegal": {
+        "title": "Base legal",
+        "body": "O tratamento dos dados é realizado de acordo com o Regulamento Geral sobre a Proteção de Dados da União Europeia, incluindo diligências pré contratuais, interesse legítimo em responder a pedidos comerciais e consentimento quando aplicável.\nPara contactos com entidades localizadas na Turquia, também consideramos os princípios da legislação turca de proteção de dados pessoais, conhecida como KVKK."
+      },
+      "conservacao": {
+        "title": "Prazo de conservação",
+        "body": "Os dados serão conservados pelo período necessário para gerir a lista de lançamento, manter o contacto comercial solicitado e cumprir obrigações legais aplicáveis. Em regra, os dados de contacto podem ser mantidos até 24 meses após a última interação, salvo quando exista uma relação contratual ou obrigação legal que justifique prazo diferente."
+      },
+      "direitos": {
+        "title": "Direitos do titular dos dados",
+        "body": "O titular dos dados pode solicitar acesso, retificação, apagamento, oposição ao tratamento e portabilidade dos seus dados, nos termos aplicáveis. Estes direitos podem ser exercidos através do email support@goklinik.com.\nO pedido será analisado e respondido de acordo com os prazos previstos na legislação aplicável."
+      },
+      "cookies": {
+        "title": "Cookies",
+        "body": "O site pode utilizar cookies técnicos ou tecnologias semelhantes necessários ao funcionamento correto da navegação, preferências de idioma e segurança. Caso sejam utilizados cookies analíticos ou de marketing no futuro, serão disponibilizadas informações e opções adequadas ao utilizador."
+      },
+      "partilha": {
+        "title": "Partilha de dados",
+        "body": "Os dados pessoais não são partilhados com terceiros para finalidades diferentes das descritas nesta Política de Privacidade, exceto quando tal seja necessário para cumprir obrigações legais, responder a autoridades competentes ou operar serviços técnicos essenciais ao funcionamento do site."
+      },
+      "contacto": {
+        "title": "Contacto para privacidade",
+        "body": "Para questões relacionadas com privacidade, proteção de dados ou exercício de direitos, contacte EFFECT IDEA, UNIPESSOAL LDA através do email support@goklinik.com."
+      }
+    }
+  },
+  "termos": {
+    "label": "Informação legal",
+    "title": "Termos de Uso",
+    "intro": "Estes Termos de Uso regulam o acesso e a utilização do site de lançamento do GoKlinik. Ao utilizar este site, o utilizador declara compreender as condições abaixo.",
+    "updated": "Última atualização: 29 de julho de 2026",
+    "sections": {
+      "responsavel": {
+        "title": "Entidade responsável pelo site",
+        "body": "O site é disponibilizado por EFFECT IDEA, UNIPESSOAL LDA, NIPC 516695835, com sede em Rua Casal Patrício, número 10, Anexo 2, 2735-246 Agualva-Cacém, Sintra, Lisboa, Portugal.\nRepresentante legal: Marlúcia Carvalho Bernardo Moreira, Gerente.\nEmail de contacto: support@goklinik.com."
+      },
+      "objeto": {
+        "title": "Objeto do site",
+        "body": "Este site tem como objetivo apresentar e divulgar o lançamento do ecossistema GoKlinik, uma solução digital destinada a clínicas de cirurgia estética que acompanham pacientes internacionais."
+      },
+      "formulario": {
+        "title": "Formulário de contacto e lista de lançamento",
+        "body": "Ao preencher o formulário de contacto ou entrar na lista de lançamento, o utilizador compromete-se a fornecer dados verdadeiros, atuais e completos. O envio do formulário não cria automaticamente uma relação contratual, mas permite que a equipa do GoKlinik entre em contacto para apresentar informações comerciais e próximos passos."
+      },
+      "propriedade": {
+        "title": "Propriedade intelectual",
+        "body": "Os textos, elementos visuais, imagens, marcas, logótipos, nomes comerciais, estrutura do site e demais conteúdos relacionados com GoKlinik pertencem à EFFECT IDEA, UNIPESSOAL LDA, salvo indicação expressa em contrário. É proibida a reprodução, cópia, distribuição ou utilização comercial sem autorização prévia por escrito."
+      },
+      "responsabilidade": {
+        "title": "Limitação de responsabilidade",
+        "body": "A EFFECT IDEA, UNIPESSOAL LDA procura manter o site disponível, seguro e atualizado, mas não garante funcionamento contínuo, sem falhas ou interrupções. As informações comerciais apresentadas têm caráter informativo e podem depender de confirmação posterior em contrato específico, incluindo preço, condições, prazos, funcionalidades e disponibilidade."
+      },
+      "leiForo": {
+        "title": "Lei aplicável e foro competente",
+        "body": "Estes Termos de Uso são interpretados de acordo com a legislação portuguesa e da União Europeia. Para clientes ou entidades localizadas na Turquia, poderão ser considerados requisitos obrigatórios da legislação turca aplicável. Em caso de litígio, serão competentes os tribunais portugueses legalmente aplicáveis, sem prejuízo de regras imperativas de proteção do utilizador ou de competência internacional."
+      },
+      "contacto": {
+        "title": "Contacto",
+        "body": "Para qualquer questão sobre estes Termos de Uso, contacte EFFECT IDEA, UNIPESSOAL LDA através do email support@goklinik.com."
+      }
+    }
+  }
+}
