@@ -21,8 +21,9 @@ const sora = Sora({
 });
 
 export const metadata: Metadata = {
-  title: "GoKlinik Patient",
-  description: "TODO: Launch landing page metadata",
+  icons: {
+    icon: "/icon.png",
+  },
 };
 
 export function generateStaticParams() {
