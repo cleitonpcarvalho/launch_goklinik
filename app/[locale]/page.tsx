@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getTranslations, setRequestLocale } from "next-intl/server";
+import { ReferralScroll } from "@/components/referral-scroll";
 import { ContatoSection } from "@/components/sections/contato-section";
 import { CrescimentoSection } from "@/components/sections/crescimento-section";
 import { CtaFinalSection } from "@/components/sections/cta-final-section";
@@ -123,6 +124,7 @@ export default async function LandingPage({ params }: LandingPageProps) {
       <CtaFinalSection />
       <SectionTransition from="dark" to="warm" />
       <ContatoSection />
+      <ReferralScroll />
     </div>
   );
 }

@@ -27,7 +27,7 @@ export type LeadFormErrorMessages = {
 
 export function getRefCodeFromSearch(search: string) {
   const params = new URLSearchParams(search);
-  const ref = params.get("ref")?.trim();
+  const ref = (params.get("r") ?? params.get("ref"))?.trim();
 
   return ref ? ref : null;
 }

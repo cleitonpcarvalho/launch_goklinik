@@ -18,6 +18,8 @@ const localeFlags: Record<Locale, string> = {
   en: "/images/flags/en.svg",
 };
 
+const switcherLocales = locales.filter((locale) => locale !== "pt");
+
 export function LanguageSwitcher() {
   const activeLocale = useLocale() as Locale;
   const pathname = usePathname();
@@ -39,7 +41,7 @@ export function LanguageSwitcher() {
       className="rounded-pill border-primaryTeal/10 bg-backgroundCleanWhite/70 text-12 text-mutedDark shadow-cardLeve flex items-center border p-1 font-semibold"
       role="navigation"
     >
-      {locales.map((locale) => {
+      {switcherLocales.map((locale) => {
         const isActive = locale === activeLocale;
         const className = [
           "flex h-8 min-w-11 items-center justify-center gap-1.5 rounded-pill px-2.5 transition-colors",

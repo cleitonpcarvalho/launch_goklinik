@@ -10,7 +10,7 @@ export const routing = defineRouting({
   locales,
   defaultLocale,
   localePrefix: "always",
-  localeDetection: true,
+  localeDetection: false,
 });
 
 export function isLocale(value: string | undefined): value is Locale {
