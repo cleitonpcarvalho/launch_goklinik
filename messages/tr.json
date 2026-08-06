@@ -250,6 +250,7 @@
     "botao_enviar": "%45 indirimle yerimi garanti altına al",
     "botao_enviando": "Talebiniz gönderiliyor",
     "mensagem_sucesso": "Talebiniz başarıyla alındı. Ekibimiz yakında sizinle iletişime geçecek.",
+    "mensagem_redirecionando": "Kaydınızı tamamlamanız için yönlendiriliyorsunuz...",
     "mensagem_erro": "Talebiniz şu anda gönderilemedi. Lütfen birkaç dakika içinde tekrar deneyin.",
     "erro_nome_obrigatorio": "Ad zorunludur",
     "erro_email_invalido": "Geçerli bir e-posta yazın",

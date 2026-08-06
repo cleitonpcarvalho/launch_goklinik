@@ -250,6 +250,7 @@
     "botao_enviar": "Secure my spot with a 45% discount",
     "botao_enviando": "Sending your request",
     "mensagem_sucesso": "Request received successfully. Our team will contact you soon.",
+    "mensagem_redirecionando": "Redirecting you to finish your sign up...",
     "mensagem_erro": "It is not possible to send your request at this moment. Please try again in a few moments.",
     "erro_nome_obrigatorio": "Name is required",
     "erro_email_invalido": "Write a valid email",

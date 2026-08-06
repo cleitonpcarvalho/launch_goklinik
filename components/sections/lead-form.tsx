@@ -1,8 +1,8 @@
 "use client";
 
 import { AnimatePresence, motion } from "framer-motion";
-import { useTranslations } from "next-intl";
-import { FormEvent, useEffect, useId, useState } from "react";
+import { useLocale, useTranslations } from "next-intl";
+import { FormEvent, useEffect, useId, useRef, useState } from "react";
 import { AlertIcon, CheckIcon } from "./section-icons";
 import {
   buildLeadPayload,
@@ -20,6 +20,9 @@ const initialValues: LeadFormValues = {
   phone: "",
   clinicName: "",
 };
+
+const signupEndpoint = "https://app.goklinik.com/signup";
+const redirectDelayMs = 1500;
 
 const fieldBaseClass =
   "border-primaryTeal/15 bg-backgroundCleanWhite text-16 text-headingDark focus:border-primaryTeal focus:ring-primaryTeal/20 mt-2 h-14 w-full rounded-md border px-4 outline-none transition-all duration-300 focus:ring-4";
@@ -105,12 +108,14 @@ function FormField({
 
 export function LeadForm() {
   const t = useTranslations("formulario");
+  const locale = useLocale();
   const formId = useId();
   const [values, setValues] = useState<LeadFormValues>(initialValues);
   const [errors, setErrors] = useState<LeadFormErrors>({});
   const [status, setStatus] = useState<FormStatus>("idle");
   const [refCode, setRefCode] = useState<string | null>(null);
   const [isSubmitting, setIsSubmitting] = useState(false);
+  const redirectTimeoutRef = useRef<number | null>(null);
 
   useEffect(() => {
     const timeoutId = window.setTimeout(() => {
@@ -118,6 +123,14 @@ export function LeadForm() {
     }, 0);
 
     return () => window.clearTimeout(timeoutId);
+  }, []);
+
+  useEffect(() => {
+    return () => {
+      if (redirectTimeoutRef.current !== null) {
+        window.clearTimeout(redirectTimeoutRef.current);
+      }
+    };
   }, []);
 
   function handleChange(name: FieldName, value: string) {
@@ -172,6 +185,27 @@ export function LeadForm() {
       }
 
       setStatus("success");
+
+      const redirectParams = new URLSearchParams();
+      redirectParams.set("name", values.name.trim());
+      redirectParams.set("email", values.email.trim());
+      redirectParams.set("phone", values.phone.trim());
+
+      const clinicName = values.clinicName.trim();
+      if (clinicName) {
+        redirectParams.set("clinic_name", clinicName);
+      }
+
+      if (refCode) {
+        redirectParams.set("ref_code", refCode);
+      }
+
+      redirectParams.set("lang", locale);
+      redirectParams.set("from_launch", "1");
+
+      redirectTimeoutRef.current = window.setTimeout(() => {
+        window.location.href = `${signupEndpoint}?${redirectParams.toString()}`;
+      }, redirectDelayMs);
     } catch {
       setStatus("error");
     } finally {
@@ -209,6 +243,9 @@ export function LeadForm() {
             </span>
             <p className="text-16 text-headingDark mt-5 leading-7 font-semibold">
               {t("mensagem_sucesso")}
+            </p>
+            <p className="text-14 text-mutedDark mt-2 leading-6">
+              {t("mensagem_redirecionando")}
             </p>
           </motion.div>
         ) : (
